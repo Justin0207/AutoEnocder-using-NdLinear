@@ -51,12 +51,19 @@ Both models share the same GAN training loop and optimization strategy.
 
 ### t-SNE of Latent Space
 - **Linear AE:** Well-defined digit clusters
+
+
+  <p align="center">
+  <img src="linear_latent_space.png" width="300"/>
+</p>
 - **NdLinear AE:** Significant overlap among digits
 
+
 <p align="center">
-  <img src="assets/tsne_linear.png" width="300"/>
-  <img src="assets/tsne_ndlinear.png" width="300"/>
+  <img src="ndlinear_latent_space.png" width="300"/>
 </p>
+
+
 
 ---
 
