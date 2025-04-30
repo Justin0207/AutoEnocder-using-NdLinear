@@ -1,6 +1,6 @@
 # GAN Performance Comparison: `nn.Linear` vs `NdLinear` on MNIST
 
-This project explores and compares the performance of Generative Adversarial Networks (GANs) where the encoder is either based on PyTorch's standard `nn.Linear` or `NdLinear` (from [lightweight-llm/NdLinear](https://github.com/ensemble-core/NdLinear)). Our aim was to analyze differences in reconstruction quality, parameter efficiency, and latent space representation.
+This project explores and compares the performance of Generative Adversarial Networks (GANs) where the encoder is either based on PyTorch's standard `nn.Linear` or `NdLinear` (from https://github.com/ensemble-core/NdLinear). Our aim was to analyze differences in reconstruction quality, parameter efficiency, and latent space representation.
 
 ---
 
