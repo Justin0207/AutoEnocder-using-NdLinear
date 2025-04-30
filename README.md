@@ -56,6 +56,7 @@ Both models share the same GAN training loop and optimization strategy.
   <p align="center">
   <img src="linear_latent_space.png" width="300"/>
 </p>
+
 - **NdLinear AE:** Significant overlap among digits
 
 
